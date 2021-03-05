@@ -14,15 +14,8 @@ module.exports = {
     siteUrl: "https://diegomotta.com.ar",
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: [
-          "G-YLV22FF9LL", // Google Analytics / GA
-        ],
-    }
-    },
+
+
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
