@@ -15,13 +15,13 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "G-YLV22FF9LL",
-        // this option places the tracking script into the head of the DOM
-        head: true,
-        // other options
-      },
+        // You can add multiple tracking ids and a pageview event will be fired for all of them.
+        trackingIds: [
+          "G-YLV22FF9LL", // Google Analytics / GA
+        ],
+    }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
