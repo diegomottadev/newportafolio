@@ -7,7 +7,7 @@ import Typed from "react-typed"
 // ...GatsbyImageSharpFluid
 const query = graphql`
 {
-  file(relativePath: {eq: "hero-img.png"}) {
+  file(relativePath: {eq: "hero-img-2.png"}) {
     childImageSharp {
       fluid {
         ...GatsbyImageSharpFluid
