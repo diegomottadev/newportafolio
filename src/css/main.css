@@ -910,7 +910,8 @@ About Page
 }
 .about-img {
   margin-bottom: 2rem;
-  height: 25rem;
+  margin-bottom: 2rem;
+  height: 20rem;
 }
 .about-text .section-title {
   margin-bottom: 2rem;

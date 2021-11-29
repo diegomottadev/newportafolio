@@ -1,0 +1,11 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YLV22FF9LL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YLV22FF9LL');
+</script></body></html>
+
+
+Pegar este codigo en el /public/index.html
