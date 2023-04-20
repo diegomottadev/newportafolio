@@ -1,6 +1,6 @@
 # Goal of the project
 
-This project is a portfolio website built with Gatsby that integrates the Strapi API to display content and data. By using the Strapi API, we can easily obtain the necessary data to display project details, blog posts, or any other custom content.
+This project is my portfolio website [https://diegomotta.dev] built with Gatsby that integrates the Strapi API to display content and data. By using the Strapi API, we can easily obtain the necessary data to display project details, blog posts, or any other custom content.
 
 # Captions
 
